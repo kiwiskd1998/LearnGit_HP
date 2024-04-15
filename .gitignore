@@ -1,2 +1,8 @@
 # key
+
+.*
+
 *.key
+
+# doesn't need to ignore
+!.gitignore
